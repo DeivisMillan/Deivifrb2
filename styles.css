@@ -338,7 +338,7 @@ p .negro{
 
 
 .confirma{
-  display: grid;
+  display: none;
   grid-template-columns: 4fr  1fr;
   border-radius: 5px;
   margin-bottom: 10px;
